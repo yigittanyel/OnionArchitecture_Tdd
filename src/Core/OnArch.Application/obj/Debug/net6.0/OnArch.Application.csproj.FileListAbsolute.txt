@@ -1,0 +1,15 @@
+D:\repos\OnionArchitectureDeneme\src\Core\OnArch.Application\bin\Debug\net6.0\OnArch.Application.deps.json
+D:\repos\OnionArchitectureDeneme\src\Core\OnArch.Application\bin\Debug\net6.0\OnArch.Application.dll
+D:\repos\OnionArchitectureDeneme\src\Core\OnArch.Application\bin\Debug\net6.0\OnArch.Application.pdb
+D:\repos\OnionArchitectureDeneme\src\Core\OnArch.Application\bin\Debug\net6.0\OnArch.Domain.dll
+D:\repos\OnionArchitectureDeneme\src\Core\OnArch.Application\bin\Debug\net6.0\OnArch.Domain.pdb
+D:\repos\OnionArchitectureDeneme\src\Core\OnArch.Application\obj\Debug\net6.0\OnArch.Application.csproj.AssemblyReference.cache
+D:\repos\OnionArchitectureDeneme\src\Core\OnArch.Application\obj\Debug\net6.0\OnArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OnionArchitectureDeneme\src\Core\OnArch.Application\obj\Debug\net6.0\OnArch.Application.AssemblyInfoInputs.cache
+D:\repos\OnionArchitectureDeneme\src\Core\OnArch.Application\obj\Debug\net6.0\OnArch.Application.AssemblyInfo.cs
+D:\repos\OnionArchitectureDeneme\src\Core\OnArch.Application\obj\Debug\net6.0\OnArch.Application.csproj.CoreCompileInputs.cache
+D:\repos\OnionArchitectureDeneme\src\Core\OnArch.Application\obj\Debug\net6.0\OnArch.Application.csproj.CopyComplete
+D:\repos\OnionArchitectureDeneme\src\Core\OnArch.Application\obj\Debug\net6.0\OnArch.Application.dll
+D:\repos\OnionArchitectureDeneme\src\Core\OnArch.Application\obj\Debug\net6.0\refint\OnArch.Application.dll
+D:\repos\OnionArchitectureDeneme\src\Core\OnArch.Application\obj\Debug\net6.0\OnArch.Application.pdb
+D:\repos\OnionArchitectureDeneme\src\Core\OnArch.Application\obj\Debug\net6.0\ref\OnArch.Application.dll

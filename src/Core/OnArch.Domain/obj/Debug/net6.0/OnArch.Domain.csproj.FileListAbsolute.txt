@@ -1,0 +1,12 @@
+D:\repos\OnionArchitectureDeneme\src\Core\OnArch.Domain\bin\Debug\net6.0\OnArch.Domain.deps.json
+D:\repos\OnionArchitectureDeneme\src\Core\OnArch.Domain\bin\Debug\net6.0\OnArch.Domain.dll
+D:\repos\OnionArchitectureDeneme\src\Core\OnArch.Domain\bin\Debug\net6.0\OnArch.Domain.pdb
+D:\repos\OnionArchitectureDeneme\src\Core\OnArch.Domain\obj\Debug\net6.0\OnArch.Domain.csproj.AssemblyReference.cache
+D:\repos\OnionArchitectureDeneme\src\Core\OnArch.Domain\obj\Debug\net6.0\OnArch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OnionArchitectureDeneme\src\Core\OnArch.Domain\obj\Debug\net6.0\OnArch.Domain.AssemblyInfoInputs.cache
+D:\repos\OnionArchitectureDeneme\src\Core\OnArch.Domain\obj\Debug\net6.0\OnArch.Domain.AssemblyInfo.cs
+D:\repos\OnionArchitectureDeneme\src\Core\OnArch.Domain\obj\Debug\net6.0\OnArch.Domain.csproj.CoreCompileInputs.cache
+D:\repos\OnionArchitectureDeneme\src\Core\OnArch.Domain\obj\Debug\net6.0\OnArch.Domain.dll
+D:\repos\OnionArchitectureDeneme\src\Core\OnArch.Domain\obj\Debug\net6.0\refint\OnArch.Domain.dll
+D:\repos\OnionArchitectureDeneme\src\Core\OnArch.Domain\obj\Debug\net6.0\OnArch.Domain.pdb
+D:\repos\OnionArchitectureDeneme\src\Core\OnArch.Domain\obj\Debug\net6.0\ref\OnArch.Domain.dll

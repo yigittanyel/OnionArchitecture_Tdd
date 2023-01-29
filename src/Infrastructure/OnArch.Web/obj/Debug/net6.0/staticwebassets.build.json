@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "umOQeFDkQwqeIlq65cDyRsZdp1Ue983HOEhSYIFUG80=",
+  "Source": "OnArch.Web",
+  "BasePath": "_content/OnArch.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
