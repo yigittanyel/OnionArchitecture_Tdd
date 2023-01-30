@@ -1,3 +1,8 @@
+D:\repos\OnionArchitectureDeneme\src\Infrastructure\OnArch.Persistance\obj\Debug\net6.0\OnArch.Persistance.csproj.AssemblyReference.cache
+D:\repos\OnionArchitectureDeneme\src\Infrastructure\OnArch.Persistance\obj\Debug\net6.0\OnArch.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OnionArchitectureDeneme\src\Infrastructure\OnArch.Persistance\obj\Debug\net6.0\OnArch.Persistance.AssemblyInfoInputs.cache
+D:\repos\OnionArchitectureDeneme\src\Infrastructure\OnArch.Persistance\obj\Debug\net6.0\OnArch.Persistance.AssemblyInfo.cs
+D:\repos\OnionArchitectureDeneme\src\Infrastructure\OnArch.Persistance\obj\Debug\net6.0\OnArch.Persistance.csproj.CoreCompileInputs.cache
 D:\repos\OnionArchitectureDeneme\src\Infrastructure\OnArch.Persistance\bin\Debug\net6.0\OnArch.Persistance.deps.json
 D:\repos\OnionArchitectureDeneme\src\Infrastructure\OnArch.Persistance\bin\Debug\net6.0\OnArch.Persistance.runtimeconfig.json
 D:\repos\OnionArchitectureDeneme\src\Infrastructure\OnArch.Persistance\bin\Debug\net6.0\OnArch.Persistance.dll
@@ -6,11 +11,6 @@ D:\repos\OnionArchitectureDeneme\src\Infrastructure\OnArch.Persistance\bin\Debug
 D:\repos\OnionArchitectureDeneme\src\Infrastructure\OnArch.Persistance\bin\Debug\net6.0\OnArch.Domain.dll
 D:\repos\OnionArchitectureDeneme\src\Infrastructure\OnArch.Persistance\bin\Debug\net6.0\OnArch.Application.pdb
 D:\repos\OnionArchitectureDeneme\src\Infrastructure\OnArch.Persistance\bin\Debug\net6.0\OnArch.Domain.pdb
-D:\repos\OnionArchitectureDeneme\src\Infrastructure\OnArch.Persistance\obj\Debug\net6.0\OnArch.Persistance.csproj.AssemblyReference.cache
-D:\repos\OnionArchitectureDeneme\src\Infrastructure\OnArch.Persistance\obj\Debug\net6.0\OnArch.Persistance.GeneratedMSBuildEditorConfig.editorconfig
-D:\repos\OnionArchitectureDeneme\src\Infrastructure\OnArch.Persistance\obj\Debug\net6.0\OnArch.Persistance.AssemblyInfoInputs.cache
-D:\repos\OnionArchitectureDeneme\src\Infrastructure\OnArch.Persistance\obj\Debug\net6.0\OnArch.Persistance.AssemblyInfo.cs
-D:\repos\OnionArchitectureDeneme\src\Infrastructure\OnArch.Persistance\obj\Debug\net6.0\OnArch.Persistance.csproj.CoreCompileInputs.cache
 D:\repos\OnionArchitectureDeneme\src\Infrastructure\OnArch.Persistance\obj\Debug\net6.0\OnArch.Persistance.csproj.CopyComplete
 D:\repos\OnionArchitectureDeneme\src\Infrastructure\OnArch.Persistance\obj\Debug\net6.0\OnArch.Persistance.dll
 D:\repos\OnionArchitectureDeneme\src\Infrastructure\OnArch.Persistance\obj\Debug\net6.0\refint\OnArch.Persistance.dll

@@ -1,6 +1,8 @@
 
+using Microsoft.EntityFrameworkCore;
 using OnArch.Application;
 using OnArch.Persistance;
+using OnArch.Persistance.Context;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +15,11 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddApplicationRegistration();
 builder.Services.AddPersistanceRegistration();
+
+builder.Services.AddDbContext<ApplicationDbContext>(opt =>
+{
+    opt.UseSqlServer(builder.Configuration.GetConnectionString("cnnstr"));
+});
 
 var app = builder.Build();
 

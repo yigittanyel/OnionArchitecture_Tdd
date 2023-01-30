@@ -17,26 +17,32 @@ namespace OnArch.Application.Features.Commands
 
     public class DeleteProductCommandHandler : IRequestHandler<DeleteProductCommand, ServiceResponse<bool>>
     {
-        private readonly IProductRepository _productRepository;
+        private readonly IProductRepository _repository;
         private readonly IMapper _mapper;
 
-        public DeleteProductCommandHandler(IProductRepository productRepository, IMapper mapper)
+        public DeleteProductCommandHandler(IProductRepository repository, IMapper mapper)
         {
-            _productRepository = productRepository;
+            _repository = repository;
             _mapper = mapper;
         }
 
         public async Task<ServiceResponse<bool>> Handle(DeleteProductCommand request, CancellationToken cancellationToken)
         {
-            var product = _mapper.Map<Domain.Entities.Product>(request.Id);
+            var product = await _repository.GetByIdAsync(request.Id);
             if (product == null)
-                return new ServiceResponse<bool>();
+            {
+                return new ServiceResponse<bool>
+                {
+                    Value = false
+                };
+            }
 
-            _mapper.Map(request, product);
+            await _repository.DeleteAsync(product.Id);
 
-            await _productRepository.DeleteAsync(product.Id);
-
-            return new ServiceResponse<bool>();
+            return new ServiceResponse<bool>
+            {
+                Value=true
+            };
         }
     }
 }
